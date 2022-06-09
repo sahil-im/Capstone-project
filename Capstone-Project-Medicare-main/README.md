@@ -4,9 +4,8 @@ Simplilearn final pproject Medicare
 Capstone Project Medicare
 
 Developer Details:
-Name: Manish Machha
-Email: manishmachha@hotmail.com
-Date created: 23-05-2022
+Name: Sahil Mujawar
+Email: mujawarsahil678@gmail.com
 Program Name: Medicare
 GitHub Repository: 
 https://github.com/manishmachha/Capstone-Project-Medicare
